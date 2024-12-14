@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="pkabdullah" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently imporving my Tech stacks  **Web Development**
 
-- 💬 Ask me about **TypeScript, Java Script, React, HTML, Tailwind CSS**
+- 💬 Ask me about **TypeScript/Java Script, React,Next Js, RTK, RESTFULL API's,  MongoDb, HTML, Tailwind CSS**
 
 - 📫 How to reach me **abdullah.sheikhaps@gmail.com**
 
